@@ -1,0 +1,14 @@
+{
+    "data": {
+        "properties": {
+            "meta": {
+                "id": "467f044d-9c97-49ce-b6be-1bc6d4a8f1fd",
+                "name": "Gateway Graphman Bundle - 2024-05-13T13:11:23.548Z",
+                "author": "admin",
+                "hostname": "gateway.rtx.anapartner.dev",
+                "timestamp": "2024-05-13T13:11:23.548Z"
+            },
+            "defaultAction": "NEW_OR_UPDATE"
+        }
+    }
+}
